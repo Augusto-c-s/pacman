@@ -9,4 +9,17 @@ TITLE_GAME = 'PACMAN'
 FPS = 30
 
 #COLORS
+WHITE = (255, 255, 255)
 BLACK = (0,0,0)
+YELLOW = (244, 233, 51)
+
+# IMAGES
+SPRITESHEET = 'spritesheet.png'
+PACMANLOGO = 'pacman-logo-1.png'
+
+# FONT 
+FONT = 'arial'
+
+# AUDIO
+GAME_START_MUSIC = 'intermission.wav'
+PRESS_BUTTON_TO_START = 'munch_1.wav'
